@@ -1,0 +1,4 @@
+com\base\TestBase.class
+com\pages\HomePage.class
+com\pages\SignInPage.class
+com\Util\UserDTO.class

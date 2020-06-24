@@ -1,0 +1,3 @@
+com\google\qa\tests\GoogleSendMailTest.class
+com\google\qa\tests\GoogleSignInTest.class
+com\google\qa\tests\GoogleLogOutTest.class
